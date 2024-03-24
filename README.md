@@ -1,11 +1,10 @@
 
 # Sales Insight Dashboard Creation Using Power BI
 
-▪ Import und Modellierung von Daten für die Analyse
+Import und Modellierung von Daten für die Analyse
+Visualisierungen und Berichte, die die meistverkauften Produkte, die leistungsstärksten Verkäufer und die Analyse der Gesamtgewinne nach Standorten für einen bestimmten Zeitraum zeigen
 
-▪ Visualisierungen und Berichte, die die meistverkauften Produkte, die leistungsstärksten Verkäufer und die Analyse der Gesamtgewinne nach Standorten für einen bestimmten Zeitraum zeigen
-
-Schritte:
+### Schritte:
 1) Import und Datenmodellierung
 
 Dieser Schritt umfasst die Importierung der Daten (in diesem Fall aus einer Microsoft Excel-Arbeitsmappe) in Power BI sowie die Modellierung der Daten, um sicherzustellen, dass sie für die Analyse und Visualisierung geeignet sind.
