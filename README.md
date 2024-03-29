@@ -15,16 +15,22 @@ Dieser Schritt umfasst die Importierung der Daten (in diesem Fall aus einer Micr
 Hier werden die Beziehungen zwischen den verschiedenen Tabellen in Ihrem Datenmodell erstellt und verwaltet. Dies ermöglicht es Power BI, die Daten effektiv zu verknüpfen und Zusammenhänge zwischen den Daten zu verstehen.
 
 
-![Modellansicht](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/ca17aea0-3ccb-42a9-a8e3-18b33e242626)
+![Modellansicht](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/c0b02a21-9d67-4c91-85ba-ff752fa8a7d8)
 
 
 3) Berechnete Spalten mit DAX
 
 Mit DAX (Data Analysis Expressions) können Sie benutzerdefinierte Berechnungen und Metriken erstellen, indem Sie berechnete Spalten basierend auf den vorhandenen Daten erstellen. Es wurden die Spalten "Month" und "Year" aus der Date-Tabelle sowie die Spalte "Approximate Profit" aus der Sales-Tabelle erstellt.
 
+![Dax1](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/9d773c58-9da8-459f-b2f7-aac278d0d91a)
+
+![Dax2](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/735d48b7-8caa-47f0-a5a5-b3d78a7ebabc)
+
 4) Metriken mit DAX
 
 In diesem Schritt werden Metriken und Kennzahlen definiert, um tiefere Einblicke in Ihre Daten zu gewinnen. Sie können komplexe Berechnungen durchführen und Leistungskennzahlen definieren, um den Erfolg Ihrer Geschäftsziele zu messen. Es wurden folgende KPIs erstellt: "Profit Margin", "Total Cost", "Total Products", "Total Profits", "Total Sales" und "Total Units Sold".
+
+![Dax](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/0246af0b-6605-474a-bde0-691044842086)
 
 5) Entwicklung von Diagrammen
 
@@ -38,14 +44,12 @@ Sie konfigurieren Filter und Interaktionsmöglichkeiten zwischen verschiedenen V
 
 Tabellen und Matrizen ermöglichen es Ihnen, die Daten in tabellarischer Form anzuzeigen und zu analysieren, um detaillierte Einblicke zu erhalten und Daten zu vergleichen. Es wurde eine Tabelle erstellt, die die Spalten "Index", "Product Name", "Total Sales" und "Profit Margin" enthält.
 
-
-![Sales Insight Dashboard](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/a3528bd3-7918-4ce2-b4b9-98a45d4ef305)
-
-
-
 7) Stilkonfiguration
 
 Hier passen Sie das Design und den Stil Ihrer Berichte an, um sicherzustellen, dass sie ansprechend und benutzerfreundlich sind.
+
+![Überblik](https://github.com/kwilhelmde/Sales-Insight-Dashboard-Creation-Using-Power-BI/assets/143781812/45f20f2f-af1f-47ad-a608-7eef7eb4cabf)
+
 
 8) Veröffentlichung von Berichten im Power BI-Dienst
 
