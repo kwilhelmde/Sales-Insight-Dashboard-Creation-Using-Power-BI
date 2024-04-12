@@ -1,5 +1,6 @@
 
 # Sales Insight Dashboard Creation Using Power BI
+- Es handelt sich um einen fiktiven Datensatz, der bei mir erstellt wurde.
 
 Import und Modellierung von Daten für die Analyse
 
