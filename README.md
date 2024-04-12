@@ -64,11 +64,11 @@ Zum Abschluss konfigurieren Sie die automatische Aktualisierung Ihrer Datenquell
 
 "Propane Gas Grill", "Sanding Desk", "Air Compressor", "Adjustable Bed Base" und "Wine Bottle Opener" waren die Top 5 Produkte, die zwischen Januar 2019 und Dezember 2022 verkauft wurden.
 
-Der Gesamtverkauf der Top 5 Produkte beläuft sich auf 10,36% des Gesamtverkaufs zwischen 2019 und 2022
+Der Gesamtverkauf der Top 5 Produkte beläuft sich auf 10,36% des Gesamtverkaufs zwischen 2019 und 2022.
 
-Die Top 5 Produkte mit der höchsten Profit Margin zwischen Januar 2019 und December 2022 waren "UV-C Light Salitizer", "Blender", "Microwave Oven", "Sanding Desk Converter" und "Coundertop Dishwasher". Jeder von ihnen weist eine Profit Margin von mehr als 49,0 % auf.
+Die Top 5 Produkte mit der höchsten Profit Margin zwischen Januar 2019 und Dezember 2022 waren "UV-C Light Salitizer", "Blender", "Microwave Oven", "Sanding Desk Converter" und "Coundertop Dishwasher". Jeder von ihnen weist eine Profit Margin von mehr als 49,0 % auf.
 
-2022 war das beste Jahr mit einer Verkaufssumme von 28.182.610
+2022 war das beste Jahr mit einer Verkaufssumme von $28.182.610
 
-Patrick Ruiz und Eugene Holmes sind in den letzten 2 jährlichen Top-5-Verkäuferlisten aufgeführt.
+Patrick Ruiz und Eugene Holmes sind in den letzten 2 jährlichen Top-5-Verkäuferlisten erschienen.
 
